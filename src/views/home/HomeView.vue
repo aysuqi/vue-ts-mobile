@@ -4,7 +4,7 @@
     <div class="text">主要按钮</div>
   </div>
 </template>
-<script setup></script>
+<script setup lang="ts"></script>
 <style scoped lang="scss">
 .text {
   font-size: 34px;
